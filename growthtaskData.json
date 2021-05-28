@@ -1,0 +1,26 @@
+[
+{
+"resourceName": "每日签到（成长值）",
+"url": "https://club.mail.wo.cn/clubwebservice/growth/userSign"
+},
+{
+"irid": 254,
+"resourceName": "参与俱乐部活动（成长值）",
+"resourceFlag": "activity-web",
+"growthTaskState": 0,
+"scoreNum": 1,
+"scoreResourceType": "add",
+"attachData": "{"jumpLink":"/clubwebservice/club-index/activity-scope?currentPage=activityScope"}",
+"description": "参与活动"
+},
+{
+"irid": 561,
+"resourceName": "俱乐部积分兑换（成长值）",
+"resourceFlag": "Web_jifenduihuan+5chengzhangzhi",
+"growthTaskState": 0,
+"scoreNum": 1,
+"scoreResourceType": "add",
+"attachData": "{"jumpLink":"/clubwebservice/score-exchange/into-score-exchange?currentPage=js-hover"}",
+"description": "Web端积分兑换+1成长值"
+}
+]
