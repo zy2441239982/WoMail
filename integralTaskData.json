@@ -1,0 +1,26 @@
+[
+{
+"resourceName": "每日签到（积分）",
+"url": "https://club.mail.wo.cn/clubwebservice/club-user/user-sign/create"
+},
+{
+"irid": 539,
+"resourceName": "参与俱乐部活动（积分）",
+"resourceFlag": "Web_canyujulebuhuodong+2jifen",
+"taskState": 0,
+"scoreNum": 1,
+"scoreResourceType": "add",
+"attachData": "{"jumpLink":"/clubwebservice/club-index/activity-scope?currentPage=activityScope"}",
+"description": "Web端参与俱乐部活动+1积分"
+},
+{
+"irid": 545,
+"resourceName": "俱乐部积分兑换（积分）",
+"resourceFlag": "Web_jifenduihuan+2jifen",
+"taskState": 0,
+"scoreNum": 1,
+"scoreResourceType": "add",
+"attachData": "{"jumpLink":"/clubwebservice/score-exchange/into-score-exchange?currentPage=js-hover"}",
+"description": "Web端积分兑换+1积分"
+}
+]
